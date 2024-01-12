@@ -1,0 +1,30 @@
+.test{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 10px;
+    border-bottom: 50px;
+    border: 1px solid silver;
+    width: 500px;
+    margin: auto;
+   
+}
+.test1{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 10px;
+    border-top: 20px;
+    border: 1px solid black;
+    width: 500px;
+    margin: auto;
+    
+}
